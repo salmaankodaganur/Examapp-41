@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Examapp-41/static/css/main.e3f06db2.chunk.css",
-    "main.js": "/Examapp-41/static/js/main.72635fa0.chunk.js",
-    "main.js.map": "/Examapp-41/static/js/main.72635fa0.chunk.js.map",
+    "main.js": "/Examapp-41/static/js/main.7da4d8ac.chunk.js",
+    "main.js.map": "/Examapp-41/static/js/main.7da4d8ac.chunk.js.map",
     "runtime-main.js": "/Examapp-41/static/js/runtime-main.bffa8366.js",
     "runtime-main.js.map": "/Examapp-41/static/js/runtime-main.bffa8366.js.map",
-    "static/js/2.a242904f.chunk.js": "/Examapp-41/static/js/2.a242904f.chunk.js",
-    "static/js/2.a242904f.chunk.js.map": "/Examapp-41/static/js/2.a242904f.chunk.js.map",
+    "static/js/2.677a249a.chunk.js": "/Examapp-41/static/js/2.677a249a.chunk.js",
+    "static/js/2.677a249a.chunk.js.map": "/Examapp-41/static/js/2.677a249a.chunk.js.map",
     "index.html": "/Examapp-41/index.html",
     "static/css/main.e3f06db2.chunk.css.map": "/Examapp-41/static/css/main.e3f06db2.chunk.css.map",
-    "static/js/2.a242904f.chunk.js.LICENSE.txt": "/Examapp-41/static/js/2.a242904f.chunk.js.LICENSE.txt"
+    "static/js/2.677a249a.chunk.js.LICENSE.txt": "/Examapp-41/static/js/2.677a249a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bffa8366.js",
-    "static/js/2.a242904f.chunk.js",
+    "static/js/2.677a249a.chunk.js",
     "static/css/main.e3f06db2.chunk.css",
-    "static/js/main.72635fa0.chunk.js"
+    "static/js/main.7da4d8ac.chunk.js"
   ]
 }
